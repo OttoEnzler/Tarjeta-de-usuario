@@ -1,0 +1,76 @@
+#container {
+    font-family: cursive;
+    border-style: solid;
+    border-top: none;
+    border-color: rgb(207, 206, 207);
+    width: 500px;
+    height: 180px;
+    padding-top: 20px;
+}
+
+#celeste {
+    background-color: rgb(23, 162, 184);
+    position: relative;
+    width: 506px;
+    top: 16px;
+}
+
+#perfil {
+    position: relative;
+    height: 70px;
+    top: 40px;
+    left: 20px;
+}
+
+#ubicacion {
+    display: flex;
+    position: relative;
+    left: 15px;
+    bottom: 14px
+}
+
+#ubi {
+    height: 15px;
+    margin-top: 21px;
+}
+
+#gear {
+    height: 15px;
+    position: relative;
+    bottom: 51px;
+}
+
+#d1{
+    position: relative;
+    bottom: 34px;
+}
+
+#d2{
+    position: relative;
+    bottom: 47px;
+}
+
+.descripcion {
+    font-size: smaller;
+}
+
+.edicion{
+    position: relative;
+    bottom: 55px;
+    left: 15px;
+}
+
+h1 {
+    font-size: x-large;
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+
+p {
+    padding-left: 15px;
+}
+
+a{
+    font-size: smaller;
+}
